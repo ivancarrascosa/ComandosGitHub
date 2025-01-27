@@ -37,7 +37,7 @@ public class claseRuben {
 			letras[i] = (char) ('a' + i);
 		}
 		
-		// Pasamos la frase introducida como parametro de entrada a un array
+		// Pasamos la frase introducida como parametro de entrada a un array.
 		caracteres = frase.toCharArray();
 		
 		// 26 iteraciones, 1 para cada letra del abecedario
