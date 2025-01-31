@@ -53,6 +53,9 @@ public class claseRuben {
 			if (recuento[i] > 0) {
 				System.out.println(letras[i] + ": " + recuento[i] + (recuento[i] == 1 ? " vez" : " veces"));
 			}
+			
+			// Linea añadida por Ruben sin hacer un Pull, en la misma clase
+			System.out.println("Cambio");
 		}
 	
 		
